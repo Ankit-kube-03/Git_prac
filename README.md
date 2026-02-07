@@ -1,3 +1,3 @@
 # Git_prac
-for git hub  practice 
-HERE WE WILL LEARN ABOUT MANY THINGS RELATED TO DEVOPS AND LETS GROPW TOGETHER 
+for git hub  practice
+Here will we will study about git  
